@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "372740183499",
+    "project_id": "vitrinaplus-db8f2",
+    "storage_bucket": "vitrinaplus-db8f2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372740183499:android:95c0c88a25988e5d4e524e",
+        "android_client_info": {
+          "package_name": "ru.malina.plus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8J2AkrYVI0d8RssjgxAwd1D0wn92LhjE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
